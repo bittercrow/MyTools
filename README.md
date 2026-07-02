@@ -19,7 +19,8 @@ directory.
 ### Using the context menu
 
 Right-click a file and select `Backup` from the context menu:
-    ![Context Menu](<backup_screenshot.png>)
+
+![Context Menu](<backup_screenshot.png>)
 
 ### Using the command line
 
