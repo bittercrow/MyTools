@@ -24,7 +24,7 @@ if errorlevel 1 (
     )
 )
 
-REM Write the Registry
+REM Edit the Windows Registry
 reg add "HKCU\Software\Classes\*\shell\Backup" /ve /d "Backup" /f
 
 reg add "HKCU\Software\Classes\*\shell\Backup" /v Icon /d "%SystemRoot%\System32\shell32.dll,258" /f
