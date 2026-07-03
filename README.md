@@ -10,9 +10,7 @@ ex.
 ## Installation
 
 1. Place `MyTools` folder in %USERPROFILE%\Documents\.
-2. Notice that the current directory will be set for the `Backup` command
-directory.
-3. Double-click install_backup_path.cmd to register the `Backup` command in the context menu and add `MyTools` directory path to the user `Path`.
+2. Double-click install_backup_path.cmd to register the `Backup` command in the context menu and add `MyTools` directory path to the user `Path`.
 
 ## Usage
 
